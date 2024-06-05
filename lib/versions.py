@@ -8,5 +8,6 @@ def python_version():
 def requests_version():
     return requests.__version__
 
+
 def pytest_version():
     return pytest.__version__
